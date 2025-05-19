@@ -2,9 +2,15 @@
   "coffee": [
     {
       "id": 1,
-      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/fbbcfe279783014e0377ab57293b5894541e2ad9/img/americano.jpg",
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/cappuccino.jpg",
       "title": "Капучино",
       "description": "Кофе с равными частями эспрессо, горячего молока и молочной пены."
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/espresso.jpg",
+      "title": "Эспрессо",
+      "description": "Крепкий и насыщенный кофе, приготовленный путем пропускания горячей воды через мелко молотый кофе."
     }
   ],
   "company": 
