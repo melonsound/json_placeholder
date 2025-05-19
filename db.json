@@ -2,6 +2,7 @@
   "coffee":[
     {
       "id": 1,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/fbbcfe279783014e0377ab57293b5894541e2ad9/img/americano.jpg",
       "title": "Капучино",
       "description": "Кофе с равными частями эспрессо, горячего молока и молочной пены."
     }
