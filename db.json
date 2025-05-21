@@ -27,6 +27,12 @@
   ],
   "company": 
   {
+    "contact":
+    {
+      "phone": "+7(999)000-00-99",
+      "address": "г.Москва, пер.Гагаринский, д.3",
+      "email": "info@topcoffee.ru"
+    },
     "about": [
       {
         "title": "Наша история",
