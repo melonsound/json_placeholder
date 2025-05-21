@@ -11,6 +11,18 @@
       "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/espresso.jpg",
       "title": "Эспрессо",
       "description": "Крепкий и насыщенный кофе, приготовленный путем пропускания горячей воды через мелко молотый кофе."
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/americano.jpg",
+      "title": "Американо",
+      "description": "Эспрессо, разбавленный горячей водой, что делает его менее крепким."
+    },
+    {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/raf.jpg",
+      "title": "Раф",
+      "description": "Кофе с добавлением сливок и ванили, часто подается с взбитыми сливками."
     }
   ],
   "company": 
