@@ -9,7 +9,12 @@
       "id": 1,
       "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/cappuccino.jpg",
       "title": "Капучино"
-    }
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/americano.jpg",
+      "title": "Американо"
+    },
   ],
   "coffee": [
     {
