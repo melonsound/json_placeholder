@@ -44,6 +44,13 @@
       "rating": 4.9,
       "title": "Раф",
       "description": "Кофе с добавлением сливок и ванили, часто подается с взбитыми сливками."
+    },
+    {
+      "id": 5,
+      "image": "https://raw.githubusercontent.com/melonsound/json_placeholder/refs/heads/master/img/ice_latte.jpg",
+      "rating": 4.97,
+      "title": "Айс Латте",
+      "description": "Это холодный кофейный напиток, состоящий из эспрессо, молока и льда"
     }
   ],
   "company": 
